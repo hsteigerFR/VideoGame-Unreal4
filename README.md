@@ -6,7 +6,7 @@ Video game links :
 Andre -> https://drive.google.com/drive/folders/18nrfPt7YJIUb-zoMbC646-_7-_Djuu--?usp=sharing  
 DummyFight -> https://drive.google.com/drive/folders/11lLQvZX95vUbQ6YeyHLsSHD4k7utpBas?usp=sharing
 
-This repositery contains the links to two small video-games, Andre & DummyFight, which were made on free time using Epic Games' Unreal Engine 4. The games were made using mostly free assets from the Internet 3D models databases or from Epic Games (maps & environments). "Andre" also uses 3D models and textures from the "Dark Soul" video game, which were retrieved directly from the game resources. 
+This repository contains the links to two small video-games, Andre & DummyFight, which were made on free time using Epic Games' Unreal Engine 4. The games were made using mostly free assets from the Internet 3D models databases or from Epic Games (maps & environments). "Andre" also uses 3D models and textures from the "Dark Soul" video game, which were retrieved directly from the game resources. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 "Andre" is a third person game where the player embodies the blacksmith Andre of Astrora. The character will have to fight a boss enemy : "The Guardian of Ember". It is a melee fight, hammer vs sword, where each contender can escape their foe's attacks rolling or running. "The Guardian of Ember" will follow the player, and attack and escape according to a light AI system. The goal of this project was to re-create a "Dark Soul" boss fight on UE4 as a 7-day challenge. As regards the limitations, the AI of the ennemy is perfectible as well as the game manoeuvrability and high difficulty. Some collision bugs may also occur.
@@ -20,7 +20,7 @@ This repositery contains the links to two small video-games, Andre & DummyFight,
 
 To make "DummyFight", the following pipeline, implying Adobe Fuse, Adobe Mixamo & Cinema 4D, was used to create and animate the characters. Such a pipeline was later used for "Andre" :
 
-![Capture](https://user-images.githubusercontent.com/106969232/182231476-a3ef910c-2e3c-4a9e-b415-ec195560166b.JPG)
+![Capture](https://user-images.githubusercontent.com/106969232/182231967-45bc9bd8-d2a7-408a-bb25-a705744613c8.JPG)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 HOW TO USE :
