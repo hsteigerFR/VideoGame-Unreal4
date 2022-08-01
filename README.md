@@ -18,6 +18,10 @@ This repositery contains the links to two small video-games, Andre & DummyFight,
 
 ![Capture](https://user-images.githubusercontent.com/106969232/182229828-5ade78b1-b865-483f-8fa5-a61744543803.JPG)
 
+To make "DummyFight", the following pipeline, implying Adobe Fuse, Adobe Mixamo & Cinema 4D, was used to create and animate the characters. Such a pipeline was later used for "Andre" :
+
+![Capture](https://user-images.githubusercontent.com/106969232/182231476-a3ef910c-2e3c-4a9e-b415-ec195560166b.JPG)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 HOW TO USE :
 - Download the Drive folder of the game you are interested in
@@ -25,3 +29,4 @@ HOW TO USE :
 - If asked, prerequesites can be installed from the game folders
 
 Tested on Windows 10 (x64).
+
