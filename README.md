@@ -2,9 +2,9 @@
 
 Author : Hugo Steiger
 
-Video game links   
-Andre : https://drive.google.com/drive/folders/18nrfPt7YJIUb-zoMbC646-_7-_Djuu--?usp=sharing  
-DummyFight : https://drive.google.com/drive/folders/11lLQvZX95vUbQ6YeyHLsSHD4k7utpBas?usp=sharing
+Video game links :  
+Andre -> https://drive.google.com/drive/folders/18nrfPt7YJIUb-zoMbC646-_7-_Djuu--?usp=sharing  
+DummyFight -> https://drive.google.com/drive/folders/11lLQvZX95vUbQ6YeyHLsSHD4k7utpBas?usp=sharing
 
 This repositery contains the links to two small video-games, Andre & DummyFight, which were made on free time using Epic Games' Unreal Engine 4. The games were made using mostly free assets from the Internet 3D models databases or from Epic Games (maps & environments). "Andre" also uses 3D models and textures from the "Dark Soul" video game, which were retrieved directly from the game resources. 
 
