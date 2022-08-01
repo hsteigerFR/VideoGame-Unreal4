@@ -24,9 +24,9 @@ To make "DummyFight", the following pipeline, implying Adobe Fuse, Adobe Mixamo 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 HOW TO USE :
-- Download the Drive folder of the game you are interested in
+- Download the Drive folder of the game you are interested in.
 - Launch  "[NameOfTheGame].exe". As regards the initial name of the UE4 project, "DummyFight" .exe will be entitled "BvsF-Jail.exe".
-- If asked, prerequesites can be installed from the game folders
+- If necessary, prerequesites can be installed from the game folders.
 
 Tested on Windows 10 (x64).
 
